@@ -2,12 +2,13 @@
 tupla = (1, 2, 3)
 print(tupla)
 # Las tuplas son inmutables
+
     # LISTAS #
 lista = ['a', 'b', 'c']
 print(lista)
 # Las listas sin son mutables   
 
-lista.append('x')   # Método para gregar un elemento a una lista
+lista.append('x')   # Método para agregar un elemento a una lista
 lista.append('y')
 lista.append('z')
 print(lista)
